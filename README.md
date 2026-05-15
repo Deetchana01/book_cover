@@ -249,8 +249,8 @@ Publish the website in the LocalHost.
 ```
 # OUTPUT:
 
-![alt text](<Screenshot (49).png>)
-![alt text](<Screenshot (50).png>)
+![alt text](<Screenshot (51).png>)
+![alt text](<Screenshot (52).png>)
 
 
 # RESULT:
