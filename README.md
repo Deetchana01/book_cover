@@ -215,7 +215,7 @@ Publish the website in the LocalHost.
     <div class="author-box">
 
         <!-- Replace your image name here -->
-        <img src="MyPhoto.jpeg" alt="Author Photo">
+        <img src="MyPhoto.jpg" alt="Author Photo">
 
         <div class="author-details">
             <h2>Deetchana S</h2>
